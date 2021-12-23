@@ -1,0 +1,71 @@
+.header_image {
+    background-image: url(../diner-menu.jpg);
+    background-size: cover;
+    height:500px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.cook_camp {
+      background-color: white;
+  width: 12em;
+  height: 30px;
+}
+
+
+.link {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+ul {
+    list-style:none;
+}
+.recipe_search {
+    background-color: white;
+    margin-right: 1000px;
+    margin-left:50px;
+     
+}
+.recipe_ather {
+    color: white;
+    background-color: gray;
+    background-image:url(../dish.png);
+     background-repeat: no-repeat;
+      padding-left: 15px;
+     margin-left: 30px;
+}
+body {
+    background-color: #F2F2F2;
+}
+
+    
+
+.recipe_point {
+    background-image: url(../arrow.png);
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    margin-right: 100px;
+    
+
+    border-top: dashed  1px #F2F2F2;
+  border-bottom: dashed 1px #F2F2F2;
+  
+ 
+}
+footer {
+        background-color: gray;
+        list-style: none;
+        text-align: center;
+}
+
+.message {
+    color: white;
+    position:absolute;
+    bottom: 160px;
+    left:50px;
+    margin: 0;
+    padding: 0;
+}

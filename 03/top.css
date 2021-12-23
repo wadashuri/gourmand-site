@@ -1,0 +1,50 @@
+.food {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.vegetable {
+    flex-basis:5em;
+}
+.mushroom {
+    flex-basis:5em;
+}
+.cake {
+    flex-basis:5em;
+}
+.fish {
+    flex-basis:5em;
+}
+.fried {
+    flex-basis:5em;
+}
+   
+ol {
+    list-style: none;
+}
+.food_explanation {
+    color: white;
+    background-color: gray;
+    background-image:url(../dish.png);
+     background-repeat: no-repeat;
+      padding-left: 15px;
+     
+}
+
+
+main {
+      margin-left: 20px;
+      margin-right:20px;
+}
+.french_japan {
+    display: flex;
+    
+}
+.italian {
+    display: flex;
+}
+.china {
+    display: flex;
+}
+
+
